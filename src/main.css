@@ -1,4 +1,4 @@
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 950px) {
     .button {
         display: block;
     }
@@ -13,8 +13,7 @@ body {
 }
 
 #quote-box {
-    margin: 10% auto;
-    padding: 3% 10% 7%;
+    padding: 2vh 10vw 5vh;
     width: 50%;
     text-align: center;
     color: #AC5A50;
@@ -22,11 +21,12 @@ body {
     border-radius: 20px;
     line-height: 3em;
     font-family: 'Gloria Hallelujah', cursive;
+    margin: 20vh auto;
 }
 
 #full-quote {
     font-size: 2em;
-    padding-bottom: 5%;
+    padding: 2vh 5vw;
 }
 
 .button {
